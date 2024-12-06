@@ -1,4 +1,3 @@
-/* eslint-disable no-bitwise */
 /* ********************************************************************************************
  *                                                                                            *
  * Please read the following tutorial before implementing tasks:                               *
